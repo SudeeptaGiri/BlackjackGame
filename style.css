@@ -1,0 +1,27 @@
+.hero {
+	margin: auto;
+	background-color: green;
+	text-align: center;
+}
+h1 {
+	color: coral;
+}
+p {
+	font-size: 20px;
+	font-weight: 700;
+	color: white;
+}
+#message-el {
+	font-style: italic;
+}
+button {
+	background-color: goldenrod;
+	color: green;
+	font-size: 18px;
+	font-weight: 600;
+	padding: 15px 50px;
+	margin-bottom: 10px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
